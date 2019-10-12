@@ -1,0 +1,2 @@
+# o2o_comment_textcategorization
+textcategorization
